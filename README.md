@@ -2,6 +2,7 @@
 
 - I'm somebody in somewhere doing something.
 - My pronouns are she/her/they.
+- My Blog: <https://hatateaya.github.io>
   
 <!--
 **hatateaya/hatateaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
