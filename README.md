@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm BORECOLE
 
 - I'm somebody in somewhere doing something.
-- My pronouns are she/her/they.
 - My Blog: <https://hatateaya.github.io>
   
 <!--
