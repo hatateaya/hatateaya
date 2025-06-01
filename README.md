@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm BORECOLE
 
 - I'm somebody in somewhere doing something.
-- My Blog: <ganlanc.at>
+- My Blog: <https://ganlanc.at/>
   
 <!--
 **hatateaya/hatateaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
